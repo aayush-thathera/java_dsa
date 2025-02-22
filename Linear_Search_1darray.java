@@ -16,8 +16,8 @@ public class Linear_Search_1darray {
             }
         }
         // print 
-        // for (int i=0;i<x;i++){
-        //     System.out.println(num[i]);
-        // }
+        for (int i=0;i<x;i++){
+            System.out.println(num[i]);
+        }
     }
 }
