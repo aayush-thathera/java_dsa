@@ -6,9 +6,10 @@ public class Fibonacci_Number {
        int n=as.nextInt();
        int a=0;
        int b=1;
+       System.out.print("Fibonacci number:"+ a + " " + b +" ");
        for(int i=2;i<n;i++){
         int next=a+b;
-        System.out.print(next);
+        System.out.print(next+ " ");
         a=b;
         b=next;
        }
