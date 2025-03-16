@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArrayExample {
+public class Array {
     public static void main(String[] args) {
         // Declare and initialize an array
         int[] numbers = {5, 8, 2, 10, 3, 7};
